@@ -1,0 +1,10 @@
+C:\Users\egos2\source\repos\NumerosCayendo\NumerosCayendo\bin\Debug\NumerosCayendo.exe.config
+C:\Users\egos2\source\repos\NumerosCayendo\NumerosCayendo\bin\Debug\NumerosCayendo.exe
+C:\Users\egos2\source\repos\NumerosCayendo\NumerosCayendo\bin\Debug\NumerosCayendo.pdb
+C:\Users\egos2\source\repos\NumerosCayendo\NumerosCayendo\obj\Debug\NumerosCayendo.Form1.resources
+C:\Users\egos2\source\repos\NumerosCayendo\NumerosCayendo\obj\Debug\NumerosCayendo.Properties.Resources.resources
+C:\Users\egos2\source\repos\NumerosCayendo\NumerosCayendo\obj\Debug\NumerosCayendo.csproj.GenerateResource.cache
+C:\Users\egos2\source\repos\NumerosCayendo\NumerosCayendo\obj\Debug\NumerosCayendo.csproj.CoreCompileInputs.cache
+C:\Users\egos2\source\repos\NumerosCayendo\NumerosCayendo\obj\Debug\NumerosCayendo.exe
+C:\Users\egos2\source\repos\NumerosCayendo\NumerosCayendo\obj\Debug\NumerosCayendo.pdb
+C:\Users\egos2\source\repos\NumerosCayendo\NumerosCayendo\obj\Debug\NumerosCayendo.csprojAssemblyReference.cache
